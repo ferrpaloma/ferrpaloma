@@ -1,7 +1,7 @@
 ### Hello, world! I am Paloma! 👋
 
 - 🔭 I’m currently working on projects involving analysis of Chess Networks and Criminal Networks
-- 🌱 I’m currently learning more about scientific program
+- 🌱 I’m currently learning more about Scientific Program
 - 😄 Pronouns: She/Her
 
 </div>
